@@ -40,7 +40,7 @@
   
 ## Presentation on Canva
 
-- Presentation  -- > [Visit the official page of this motherboard](https://www.canva.com/design/DAGYUbQxNEM/euH8xIe9aWqntbOBmjnR3Q/view?utm_content=DAGYUbQxNEM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba5e50553f)
+- Presentation  -- > [Visit the presentation on Canva](https://www.canva.com/design/DAGYUbQxNEM/euH8xIe9aWqntbOBmjnR3Q/view?utm_content=DAGYUbQxNEM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba5e50553f)
 
 
 ## Definition of the mainboard 
