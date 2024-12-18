@@ -120,7 +120,7 @@ Is a small, coin-shaped battery found on a computer's motherboard. It provides p
 These models are designed for `everyday use, gaming, and general-purpose PCs`. They offer a balance of price and performance for a wide range of users.
 
 **Examples:**
-- ASUS TUF Gaming series -- > [Visit the official page of this motherboard](https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/)
+- MSI A620M-E Pro AMD AM5 microATX Motherboard -- > [Visit the page of this motherboard on microcenter](https://www.microcenter.com/product/666340/msi-a620m-e-pro-amd-am5-microatx-motherboard)
 - MSI MAG series -- > [Visit the official page of this motherboard](https://us.msi.com/Motherboard/MAG-X870-TOMAHAWK-WIFI)
 
 **Key Features:**
