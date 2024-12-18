@@ -244,6 +244,10 @@ These include the SATA connectors, which are used to connect storage devices lik
 ## A: PS/2 Connection
  - This is where you can plug in a `PS/2 mouse`
 
+<br>
+  
+  <img src="img/ps2.jpg" width="200" height="100">
+
  ## B: PS/2 Connection
  - This is where you can plug in a `PS/2 keyboard`
 
@@ -252,6 +256,9 @@ These include the SATA connectors, which are used to connect storage devices lik
 
  ## D: USB Connections
  - Connection for `USB`
+  
+  <img src="img/usb.jpeg" width="200" height="100">
+
 
  ## E: 6 Channel Sound
 - This will be for the `computer's speakers` and `microphone`
@@ -259,8 +266,12 @@ These include the SATA connectors, which are used to connect storage devices lik
  ## F: Ethernet connection
 - This is where you will plug in your `internet connection`
 
+<img src="img/ethernet.webp" width="200" height="100">
+
  ## G: 4 Pin Firewire Connection
  - This is usually `used for external hard drive connections` or other high speed devices
+
+<img src="img/fireware.jpeg" width="200" height="100">
 
  ## H: 6 Pin Firewire Connection
  - This is also usually used for external hard drive connections or other high speed devices
@@ -272,30 +283,41 @@ These include the SATA connectors, which are used to connect storage devices lik
 
  ## J: LPT1 Port
  - This is used for `printer connection`
+  
+
 
  ## K: DVI-D Port
  - This is used for `LCD monitor connectionse`
 
+<img src="img/DVI.jpeg" width="200" height="100">
+
  ## L: D-Sub Port
  - This is used for `CRT monitor connections`
 
-
+<img src="img/sub.png" width="200" height="100">
 
 # NEW 🆕
 
 
 ## USB
 - Connection for USB
+  
+<img src="img/usb.jpeg" width="200" height="100">
 
 ## HDMI/DisplayPort/VGA
 - They’re all video or display connectors to output video or audio
+  
+<img src="img/hdmi.jpeg" width="200" height="100">
 
 ## Ethernet
 - Connection for internet
+  
+<img src="img/ethernet.webp" width="200" height="100">
 
 ## Analog/Digital Audio
 - Connections for speakers and digital audio equipment
 
+<img src="img/audio.jpg" width="200" height="100">
 
 # MAC 
 
